@@ -1,2 +1,2 @@
-# Css-Aplications - Parallaz
+# Css-Aplications - Parallax
 Aplicações CSS - Parallax
